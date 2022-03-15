@@ -1,0 +1,38 @@
+body {
+  background-color: antiquewhite;
+}
+.hl {
+  box-shadow: inset 0px 0px 3px 3px green;
+}
+.mat {
+  box-shadow: inset 0px 0px 10px 10px black;
+}
+.hll {
+  box-shadow: inset 0px 0px 3px 3px yellow;
+}
+.btn {
+  margin: 20px 0;
+  position: absolute;
+
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.newG {
+  font-size: 25px;
+  margin: auto;
+  color: #d8e3e7;
+  background-color: #7ea3b6;
+  width: 34rem;
+  height: 2rem;
+  border: none;
+  border-radius: 20%;
+}
+.newG:hover {
+  background-color: #d8e3e7;
+  color: #7ea3b6;
+}
+#text {
+  color: blue;
+  height: 1rem;
+}
